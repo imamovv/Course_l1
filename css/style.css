@@ -1,0 +1,36 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: Arial;
+}
+
+
+#logo {
+    color: red;
+}
+
+.nav__link {
+    color: #87CEEB;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.nav__link_active {
+    text-decoration: underline;
+}
+
+input[type=email] {
+    background-color: rgb(241, 36, 47);
+}
+
+input[type=text] {
+    background-color: orange;
+}
+
+input[type=password] {
+    background-color: greenyellow;
+}
